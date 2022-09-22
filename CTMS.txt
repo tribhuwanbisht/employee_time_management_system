@@ -1,0 +1,10 @@
+Customer Time Management System:
+
+Stack used: HTML,CSS,bootstrap,javaScript,PHP,MySQL.
+
+
+About CTMS:
+
+I developed this project when I was in my last year of BCA during my internship at the Filium Enterprises as a web developer.
+
+My mentor Mr. Shan assigned me a task of creating a web application that will help to manage & keep track of the time  

@@ -1,0 +1,50 @@
+h1,
+h2 {
+  background: linear-gradient(45deg, #006666, #02d3d3) !important;
+  padding-bottom: 5px;
+  color: white !important;
+}
+#span3,
+#span2 {
+  background: linear-gradient(45deg, #b3d9ff, #0073e6);
+  text-shadow: 2px 2px 4px black;
+}
+
+#main {
+  padding: 0px;
+}
+
+div {
+  padding: 0px;
+}
+
+label {
+  font-weight: bold;
+}
+
+#fpassword {
+  padding-right: 40px;
+}
+
+#span1 {
+  padding-top: 6px;
+  padding-left: 3px;
+  padding-right: 3px;
+  background-color: #eeedef;
+  border-radius: 5px 0px 0px 5px;
+  border: 1px solid #ced4da;
+  cursor: default;
+}
+
+.btn:disabled {
+  cursor: not-allowed;
+  pointer-events: all;
+}
+
+.form-control:disabled {
+  background-color: white;
+}
+.nav-link:hover,
+#logout_style:hover {
+  color: #cbd5df !important;
+}
